@@ -10,7 +10,8 @@
  '(custom-enabled-themes (quote (wheatgrass)))
  '(org-agenda-files
    (quote
-    ("~/Desktop/WORK/SCHOOL/PHD/ThirdYear/FirstSemester/Workplan/workplan.txt")))
+    ("~/Desktop/WORK/SCHOOL/PHD/FifthYear/FirstSemester/Workplan/workplan.txt")
+    ))
  '(package-selected-packages
    (quote
     (htmlize ob-elvish ob-ipython ob-sagemath ob-sml org-babel-eval-in-repl ob-async run-stuff magit ac-c-headers auto-complete-c-headers yasnippet auto-complete))))
